@@ -1,0 +1,34 @@
+{
+  "answers": {
+    "q0": "It provides on-device object detection for five classes by default.",
+    "q1": "It provides on-device object detection for five classes by default.",
+    "q2": "INT8",
+    "q3": "It provides on-device object detection for five classes by default.",
+    "q4": "It provides on-device object detection for five classes by default.",
+    "q5": "It supports S3-compatible APIs and lifecycle policies.",
+    "q6": "It supports S3-compatible APIs and lifecycle policies.",
+    "q7": "Data",
+    "q8": "It supports S3-compatible APIs and lifecycle policies.",
+    "q9": "It supports S3-compatible APIs and lifecycle policies.",
+    "q10": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q11": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q12": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q13": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q14": "7787"
+  },
+  "metadata": {
+    "experiment": "Exp-5",
+    "description": "RAG with FLAN-T5 Small using liberal prompt",
+    "documents_count": 15,
+    "questions_count": 15,
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "vector_store": "FAISS",
+    "retriever_k": 5,
+    "llm_model": "google/flan-t5-small",
+    "llm_params": {
+      "max_new_tokens": 20,
+      "temperature": 0.6
+    },
+    "prompt_type": "liberal, allows slight summarization, still factual"
+  }
+}

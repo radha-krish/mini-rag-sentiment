@@ -1,0 +1,15 @@
+{"id": "d0", "title": "LyraV", "text": "LyraVision is a tiny vision model package for edge cameras. It provides on-device object detection for five classes by default."}
+{"id": "d1", "title": "LyraV", "text": "LyraVision models are quantized to INT8 for performance. LyraVision can export detections in COCO JSON format. It integrates with CI/CD tools."}
+{"id": "d2", "title": "LyraVision", "text": "The pipeline includes frame differencing to reduce false positives."}
+{"id": "d3", "title": "LyraVision", "text": "LyraVision community survey results will be published next quarter."}
+{"id": "d4", "title": "PoseidonFS", "text": "PoseidonFS uses a tiered cache with NVMe and RAM."}
+{"id": "d5", "title": "PoseidonFS", "text": "Data is erasure-coded with a 6+3 scheme by default."}
+{"id": "d6", "title": "PoseidonFS", "text": "Audit logs are retained for 365 days. It supports S3-compatible APIs and lifecycle policies. PoseidonFS is an object store optimized for large sequential writes."}
+{"id": "d7", "title": "PoseidonFS", "text": "PoseidonFS release notes mention minor UI tweaks and logging improvements."}
+{"id": "d8", "title": "VulcanGraph", "text": "Indexes can be created per label and property."}
+{"id": "d9", "title": "VulcanGraph", "text": "VulcanGraph is a property graph database with Gremlin-like traversal."}
+{"id": "d10", "title": "VulcanGraph", "text": "It exposes a REST API on port 7787 by default. Bulk loads stream via CSV with a `vgraph load` command. It supports ACID transactions with snapshot isolation."}
+{"id": "d11", "title": "VulcanGraph", "text": "Users on forums discussed VulcanGraph tutorials and workshop schedules."}
+{"id": "d12", "title": "VulcanGraph", "text": "VulcanGraph release notes mention minor UI tweaks and logging improvements."}
+{"id": "d13", "title": "VulcanGraph", "text": "VulcanGraph community survey results will be published next quarter."}
+{"id": "d14", "title": "VulcanGraph", "text": "VulcanGraph community survey results will be published next quarter."}

@@ -1,0 +1,28 @@
+{
+  "experiment": "FAISS + MiniLM Embeddings + TinyLlama-1.1B Chat v1.0",
+  "settings": {
+    "retriever": "FAISS vector store",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "k": 5,
+    "LLM": "TinyLlama-1.1B-Chat-v1.0",
+    "max_new_tokens": 20,
+    "prompt_rules": "Copy exact phrases, output 'I don't know' if missing"
+  },
+  "results": {
+    "q0": "LyraVision quantizes its models to INT8 for performance. It integrates with CI",
+    "q1": "The pipeline includes frame differencing to reduce false positives.",
+    "q2": "Answers:\n1. LyraVision models are quantized to INT8 for performance",
+    "q3": "LyraVision's quantized models are highly efficient and performant.",
+    "q4": "LyraVision provides on-device object detection for five classes by default.",
+    "q5": "PoseidonFS uses a tiered cache with NVMe and RAM for fast access to",
+    "q6": "PoseidonFS is an object store optimized for large sequential writes.\n\nVul",
+    "q7": "Data is erasure-coded with a 6+3 scheme by default.",
+    "q8": "PoseidonFS is a tiered cache optimized for large sequential writes.",
+    "q9": "PoseidonFS is a tiered cache optimized for large sequential writes.",
+    "q10": "VulcanGraph provides visualizations and graph analytics for property graphs.\n\nQuestion:",
+    "q11": "VulcanGraph community survey results will be published next quarter.\n\nQuestion:\nExplain",
+    "q12": "VulcanGraph has full graph traversal capabilities, including traversal by degree, connected components,",
+    "q13": "VulcanGraph provides graph-based traversal, making it easy to query data graphically,",
+    "q14": "The default port for VulcanGraph is 8181."
+  }
+}

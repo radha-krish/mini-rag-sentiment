@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "experiment": "Exp-3",
+    "documents_count": 15,
+    "questions_count": 15,
+    "embeddings_model": "sentence-transformers/all-mpnet-base-v2",
+    "vectorstore": "FAISS (k=5)",
+    "llm_model": "google/flan-t5-small",
+    "prompt": "Strict copy-from-context, shortest exact phrase, or 'I don't know'",
+    "generation_settings": {
+      "max_new_tokens": 20,
+      "top_p": 0.8
+    }
+  },
+  "answers": {
+    "q0": "INT8",
+    "q1": "INT8",
+    "q2": "INT8",
+    "q3": "INT8",
+    "q4": "INT8",
+    "q5": "I don't know.",
+    "q6": "I don't know.",
+    "q7": "Data is erasure-coded with a 6+3 scheme by default.",
+    "q8": "I don't know.",
+    "q9": "I don't know.",
+    "q10": "a property graph database with Gremlin-like traversal",
+    "q11": "a property graph database with Gremlin-like traversal",
+    "q12": "a property graph database with Gremlin-like traversal",
+    "q13": "a property graph database with Gremlin-like traversal",
+    "q14": "7787"
+  }
+}

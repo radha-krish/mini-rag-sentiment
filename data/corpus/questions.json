@@ -1,0 +1,166 @@
+[
+  {
+    "id": "q0",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "tiny",
+      "vision",
+      "model",
+      "package",
+      "edge"
+    ]
+  },
+  {
+    "id": "q1",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "provides",
+      "on-device",
+      "object",
+      "detection",
+      "five",
+      "classes"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "To what precision are the models quantized in LyraVision?",
+    "answers": [
+      "INT8",
+      "int8"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "pipeline",
+      "includes",
+      "frame",
+      "differencing",
+      "reduce",
+      "false"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "export",
+      "detections",
+      "coco",
+      "json",
+      "format"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "State a key feature of PoseidonFS.",
+    "answers": [
+      "poseidonfs",
+      "object",
+      "store",
+      "optimized",
+      "large",
+      "sequential"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "State a key feature of PoseidonFS.",
+    "answers": [
+      "supports",
+      "s3-compatible",
+      "apis",
+      "lifecycle",
+      "policies"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "What erasure coding scheme is used by PoseidonFS?",
+    "answers": [
+      "6+3",
+      "6 + 3",
+      "6-3"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "State a key feature of PoseidonFS.",
+    "answers": [
+      "poseidonfs",
+      "uses",
+      "tiered",
+      "cache",
+      "with",
+      "nvme"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "State a key feature of PoseidonFS.",
+    "answers": [
+      "audit",
+      "logs",
+      "retained",
+      "days"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "State a key feature of VulcanGraph.",
+    "answers": [
+      "vulcangraph",
+      "property",
+      "graph",
+      "database",
+      "with",
+      "gremlin-like"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "State a key feature of VulcanGraph.",
+    "answers": [
+      "supports",
+      "acid",
+      "transactions",
+      "with",
+      "snapshot",
+      "isolation"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "State a key feature of VulcanGraph.",
+    "answers": [
+      "indexes",
+      "created",
+      "label",
+      "property"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "State a key feature of VulcanGraph.",
+    "answers": [
+      "bulk",
+      "loads",
+      "stream",
+      "with",
+      "vgraph",
+      "load"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "What is the default port for VulcanGraph?",
+    "answers": [
+      "7787",
+      "port 7787"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "experiment_details": {
+    "name": "Experiment-3",
+    "objective": "Use FAISS retriever with MPNet embeddings + TinyLlama-1.1B for RAG",
+    "corpus": "15 documents (docs.jsonl)",
+    "questions": "15 questions (questions.json)",
+    "retriever": "FAISS vector store using sentence-transformers/all-mpnet-base-v2 embeddings",
+    "LLM": "TinyLlama-1.1B-Chat-v1.0 via HuggingFace pipeline",
+    "prompt": "Strict copy-from-context instructions, output shortest exact phrase, or 'I don't know'"
+  },
+  "answers": {
+    "q0": "LyraVision provides on-device object detection for five classes.\n\nQuestion:",
+    "q1": "LyraVision provides on-device object detection for five classes by default.",
+    "q2": "LyraVision models are quantized to INT8 for performance.",
+    "q3": "LyraVision provides on-device object detection for five classes by default.",
+    "q4": "LyraVision provides on-device object detection for five classes by default.",
+    "q5": "The key feature of PoseidonFS is its tiered cache with NVMe and RAM",
+    "q6": "PoseidonFS is an object store optimized for large sequential writes.",
+    "q7": "PoseidonFS uses Zlib erasure coding with a 6+3 scheme.",
+    "q8": "Output: PoseidonFS is an object store optimized for large sequential writes.",
+    "q9": "PoseidonFS is an object store optimized for large sequential writes that supports S3-",
+    "q10": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q11": "VulcanGraph is a property graph database with Gremlin-like traversal.\nQuestion",
+    "q12": "VulcanGraph is a property graph database with Gremlin-like traversal.",
+    "q13": "VulcanGraph is a property graph database with Gremlin-like traversal.\nQuestion",
+    "q14": "The default port for VulcanGraph is 1234."
+  }
+}
