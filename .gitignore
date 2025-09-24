@@ -34,7 +34,6 @@ cache/
 *.log
 *.out
 *.err
-*.csv
 
 # IDEs and editors
 .vscode/
@@ -46,6 +45,3 @@ cache/
 .DS_Store
 Thumbs.db
 
-# Ignore submissions and temporary files
-submissions/
-*.tmp
