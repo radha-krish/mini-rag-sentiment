@@ -134,6 +134,20 @@ Liberal prompt unlocked FLAN-T5’s potential → best overall setup.
 
 ---
 
+---
+
+## 🔹 Framework & Modularity
+
+For these experiments, I **used LangChain** to manage the RAG pipeline.  
+This enabled:
+- Modular and reusable code for different retrievers and LLMs
+- Easy swapping of embeddings (MiniLM, MPNet) and LLMs (TinyLlama, FLAN-T5-small)
+- Rapid experimentation with prompt styles and retrieval strategies
+- Cleaner orchestration of retrieval + generation steps  
+
+Using LangChain allowed me to **iterate quickly**, test multiple configurations, and maintain **readable, reusable code** for future RAG experiments.
+
+
 ### 📌 Key Lesson
 For **lightweight RAG**:
 - **Retriever:** Embedding-based (FAISS + MPNet)  
